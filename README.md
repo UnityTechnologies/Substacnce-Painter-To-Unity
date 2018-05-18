@@ -18,6 +18,9 @@ Post Processing  (4) : http://illu.tistory.com/1274
 
 
 Resources by Eric Gyujin.
+
+Substance Painter Resource download Link : https://drive.google.com/open?id=1U8gsrTBgjvAQ0t4GsKk2kBvZEHG6vQrU
+
 Artstaion Link : https://www.artstation.com/queensnote
 
 ![N|Solid](http://cfile5.uf.tistory.com/image/99C6C7335A1FCD3F31A678)
