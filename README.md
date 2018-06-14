@@ -4,7 +4,7 @@
 this is a for novice Unity user in artist
 
 Let's take a look at the process of moving from Allegorithmic's Substance Painter to Unity.
-Original source was provided by Kyujin. It is good to see it together with the last posting.
+Original source was provided by Gyujin. It is good to see it together with the last posting.
 
 
 Resource Export  (1) : http://illu.tistory.com/1264
