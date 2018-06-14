@@ -34,6 +34,9 @@ This is the screen where the work file is loaded from Substance Painter. (v.2.5)
 
 ![N|Solid](http://cfile6.uf.tistory.com/image/999919485A55C9541A7037)
 
+All copyrights are Unity Technologies and Gyujin Kim. Prohibit unauthorized modification and Re-distribution.
+
+
 
 
 
