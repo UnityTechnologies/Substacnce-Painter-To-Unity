@@ -1,4 +1,4 @@
-# Unity To Substance Sample Project
+# Substance Painter To Unity Sample Project
 
 
 this is a for novice Unity user in artist
